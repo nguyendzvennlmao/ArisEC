@@ -1,0 +1,7 @@
+# Tiêu đề rương
+inventory-title: "&8ᴇɴᴅᴇʀᴄʜᴇsᴛ"
+
+# Hệ thống thông báo
+messages:
+  prefix: "&8[&bArisEC&8] &r"
+  no-permission: "&cBạn không có quyền thực hiện lệnh này!"

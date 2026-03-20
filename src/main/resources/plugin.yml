@@ -1,0 +1,10 @@
+name: "ArisEnderChest"
+version: "4.2"
+main: "me.arismc.ArisEnderChest"
+api-version: "1.20"
+folia-supported: true
+commands:
+  ec:
+    description: "Mở EnderChest cá nhân"
+    aliases:
+      - "enderchest"
